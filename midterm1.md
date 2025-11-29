@@ -115,7 +115,7 @@ crontab -e
 Output :
 
 <p align="center">
-<img src="/img/m7.png" width="900">
+<img src="/img/m6 (2).png" width="900">
 </p>
 
 
