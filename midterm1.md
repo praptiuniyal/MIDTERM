@@ -80,9 +80,7 @@ find "$LOG_DIR" -type f -name "*.txt" -mtime +7 -exec rm {} \;
 ```
 Output :
 
-<p align="center">
-<img src="/img/m3.png" width="900">
-</p>
+
 
 <p align="center">
 <img src="/img/m6.png" width="900">
